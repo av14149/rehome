@@ -1,4 +1,4 @@
-# ::Rehome: Elaborating Constraints & Researching Quantities::
+# Rehome: Elaborating Constraints & Researching Quantities
 
 This is a Markdown version of the [initial Craft document](https://www.craft.do/s/jAq5U1HA6gPDkH).
 
