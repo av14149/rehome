@@ -7,7 +7,7 @@ All of this README is important, so please read through it. At the second sectio
 ## Welcome to ```Rehome```!
 ```Rehome``` is the collective term used for my endavour to design a housing system that solves the issues of both sustainability and homelessness. In this repository is a collection of ```.md``` and ```PDF``` files that explain my design choices.
 
-## ```REHOME IS NOT YET COMPLETED.```
+## Rehome is not yet completed. It might never be.
 Please note that the Rehome project is ongoing. See completed tasks below.
 
 This initial version of Rehome will be archived after completion. Afterwards, I will create a fork for Rehome 2.0, which will have a great deal more details as well as a complete redesign from the ground up. When that happens, I will add a DEPRECATED sign to the top of the README.
