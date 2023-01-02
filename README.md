@@ -1,6 +1,6 @@
 # Rehome
 ### DESIGNING THE SUSTAINABLE FUTURE OF HOUSING
-Beta Version 0.01 (fishfood)
+v0.3-beta (dogfood). Alpha will likely be released by Feb 15, 2023.
 
 __TO THE NUEVA SCHOOL__
 All of this README is important, so please read through it. At the second section, note that whenever you are grading this, Rehome 1.0 may be deprecated and Rehome 2.0 will be completed. If this is the case, look at 2.0, not this dump. If you're looking at this before that happens, then just grade this and laugh at me for my awful work. But thanks for looking at it at all.
